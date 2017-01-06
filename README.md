@@ -1,7 +1,7 @@
 # Inflectr
 ### Türkçe Çekim Kütüphanesi (Turkish Inflection Library)
 
-Inflectr Türkçe kelimelere türkçe çekim eklerini uygular. Detaylı bilgi yarın.
+Inflectr Türkçe kelimelere Türkçe çekim eklerini uygular. Ayrıca büyük harf, küçük harf dönüşümleri, başlığa çevirme özellikleri de vardır. Detaylı bilgi en kısa zamanda.
 
 ### Todo
 
