@@ -1,0 +1,27 @@
+{
+  "name": "inflectr",
+  "version": "0.1.0",
+  "description": "Inflection library for Turkish language.",
+  "main": "inflectr.js",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabuk-istanbul/inflectr.git"
+  },
+  "keywords": [
+    "Turkish",
+    "inflection",
+    "inflector"
+  ],
+  "author": "Kabuk Istanbul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kabuk-istanbul/inflectr/issues"
+  },
+  "homepage": "https://github.com/kabuk-istanbul/inflectr#readme"
+}
